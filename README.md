@@ -883,6 +883,4 @@ From here you can explore:
 
 MIT — free to use, modify, and build on.
 
----
-
-> ⚠️ **This README is a work in progress.** Additional sections covering the GitHub push process and Vercel deployment are actively being developed and will be added shortly.
+> ⚠️ **Coming Soon:** This README will be updated with the GitHub push process and Vercel deployment steps shortly. In the meantime, the live app is available at [authorization-management-clerk.vercel.app](https://authorization-management-clerk.vercel.app)
