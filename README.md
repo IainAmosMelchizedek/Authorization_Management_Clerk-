@@ -128,6 +128,34 @@ Sign up at [github.com](https://github.com). A free account is all you need.
 
 ---
 
+---
+
+### 6. Git and Git Bash
+
+**What is Git?** It is the system that tracks changes to your code and lets you push it to GitHub. Without it, you cannot complete Steps 6 and 7 of this walkthrough.
+
+**On Windows:**
+
+Windows does not come with Git installed. You need to install **Git Bash** — a terminal application that gives you both Git and a Unix-style terminal in one package.
+
+1. Go to [gitforwindows.org](https://gitforwindows.org)
+2. Click **Download** and run the installer
+3. Accept all the default options and click through to finish
+4. When done, press the **Windows key**, type `Git Bash`, and press Enter
+5. A terminal window will open — you are ready to go
+
+**On Mac:**
+
+Mac handles Git automatically. Open Terminal and type: git --version
+
+If Git is installed you will see something like: git version 2.39.0
+
+If it is not installed, your Mac will automatically prompt you to install **Xcode Command Line Tools** — click Install and follow the prompts. Git is included.
+
+**On Linux:**
+
+Run this in your terminal: sudo apt install git
+
 ## Step 1 — Create Your Clerk Application
 
 1. Log into your Clerk dashboard at [dashboard.clerk.com](https://dashboard.clerk.com)
